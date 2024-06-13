@@ -1,0 +1,9 @@
+[submodule "CODING/diamond-valuation-system-be"]
+	path = CODING/diamond-valuation-system-be
+	url = https://github.com/TuanPNTSE173039/diamond-valuation-system-be
+[submodule "CODING/diamond-valuation-system-fe"]
+	path = CODING/diamond-valuation-system-fe
+	url = https://github.com/TuanPNTSE173039/diamond-valuation-system-fe
+[submodule "CODING/diamond-valuation-system"]
+	path = CODING/diamond-valuation-system
+	url = https://github.com/TuanPNTSE173039/diamond-valuation-system
