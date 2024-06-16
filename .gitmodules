@@ -7,3 +7,12 @@
 [submodule "CODING/diamond-valuation-system"]
 	path = CODING/diamond-valuation-system
 	url = https://github.com/TuanPNTSE173039/diamond-valuation-system
+[submodule "TESTCASE/Backend/diamond-valuation-system-be"]
+	path = TESTCASE/Backend/diamond-valuation-system-be
+	url = https://github.com/TuanPNTSE173039/diamond-valuation-system-be.git
+[submodule "TESTCASE/Frontend/diamond-valuation-system"]
+	path = TESTCASE/Frontend/diamond-valuation-system
+	url = https://github.com/TuanPNTSE173039/diamond-valuation-system.git
+[submodule "TESTCASE/Frontend/diamond-valuation-system-fe"]
+	path = TESTCASE/Frontend/diamond-valuation-system-fe
+	url = https://github.com/TuanPNTSE173039/diamond-valuation-system-fe.git
