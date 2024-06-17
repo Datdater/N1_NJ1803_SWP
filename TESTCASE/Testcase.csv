@@ -1,0 +1,1088 @@
+﻿Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Project url,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Description,Environment,Watchers,Watchers,Watchers Id,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Blocks),Inward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Inward issue link (Cloners),Inward issue link (Cloners),Outward issue link (Cloners),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Attachment,Custom field (Actual Result),Custom field (Actual end),Custom field (Actual start),Custom field (Affected services),Custom field (Approvals),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Color),Custom field (Epic Link),Epic Link Summary,Custom field (Epic Name),Custom field (Epic Status),Custom field (Expected Result),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Open forms),Custom field (Project Key),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Reason),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Satisfaction rating,Custom field (Satisfaction date),Custom field (Score),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Test Level),Custom field (Test Level),Custom field (Test Steps),Custom field (Testcase Result),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Total forms),Custom field (Vulnerability),Custom field (Work category),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Comment,Parent,Parent summary,Status Category,Status Category Changed
+SU - Password - Password must be alphanumeric 6-24 characters,N1NJS1803-174,10187,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,16/Jun/24 6:01 PM,16/Jun/24 6:24 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - Password - Enter at-least one numeric value
+*Step we’ll take…*
+
+# Do not enter a numeric in Password Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Enter at-least one numeric value” must be shown",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@272b3863,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Enter at-least one numeric value” must be shown,,,,,,,,0|i000eb:,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter a numeric in Password Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,16/Jun/24 6:01 PM
+SM - Service Price List - Max Size - Max size must be greater than or equal to min size,N1NJS1803-173,10186,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,15/Jun/24 8:21 PM,16/Jun/24 11:13 AM,16/Jun/24 9:58 AM,,,0,ServiceManagement,"*SM* - Service Price List - Max Size - Max size must be greater than or equal to min size
+
+*Step we’ll take…*
+
+# Enter a value smaller than Min Size in Max Size field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Max size must be greater than or equal to min size“  must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@17b76783,,,,{},,N1NJS1803-144,Service Management,,,An error message “Max size must be greater than or equal to min size“  must be shown,,,,,,,,0|i000u6:zzzzzhzr,,,,,,,,Set up,,,,,,,,,Unit,"Enter a value smaller than Min Size in Max Size field
+
+Press TAB and move to the next Field",,,,,,,,,,10157,Service Management,To Do,15/Jun/24 8:21 PM
+SM - Service Price List - Min Size - Size must be greater than or equal to 4,N1NJS1803-172,10185,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,15/Jun/24 8:21 PM,16/Jun/24 11:13 AM,17/Jun/24 7:05 AM,,,0,ServiceManagement,"*SM* - Service Price List - Min Size - Size must be greater than or equal to 4
+
+*Step we’ll take…*
+
+# Enter a number smaller than 4 in Min Size field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Size must be greater than or equal to 4“  must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7daea9c8,,,,{},,N1NJS1803-144,Service Management,,,An error message “Size must be greater than or equal to 4“  must be shown,,,,,,,,0|i000u6:zzzzzhzi,,,,,,,,Set up,,,,,,,,,Unit,"Enter a number smaller than 4 in Min Size field
+
+Press TAB and move to the next Field",,,,,,,,,,10157,Service Management,To Do,15/Jun/24 8:21 PM
+SM - Period - Period must be greater than 0,N1NJS1803-171,10184,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,15/Jun/24 8:21 PM,16/Jun/24 11:13 AM,17/Jun/24 7:05 AM,,,0,ServiceManagement,"*SM* - Period - Period must be greater than 0
+
+*Step we’ll take…*
+
+# Enter a number smaller or equal 0 in Period field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Period must be greater than 0“  must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6c41b517,,,,{},,N1NJS1803-144,Service Management,,,An error message “Period must be greater than 0“  must be shown,,,,,,,,0|i000u6:zzzzzhz,,,,,,,,Set up,,,,,,,,,Unit,"Enter a number smaller or equal 0 in Period field
+
+Press TAB and move to the next Field",,,,,,,,,,10157,Service Management,To Do,15/Jun/24 8:21 PM
+SM - Service Name - Service Name must not be blank,N1NJS1803-170,10183,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,15/Jun/24 8:20 PM,16/Jun/24 11:13 AM,17/Jun/24 7:05 AM,,,0,ServiceManagement,"*SM* - Service Name - Service Name must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Service Name field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Service Name must not be blank“  must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3a962192,,,,{},,N1NJS1803-144,Service Management,,,An error message “Service Name must not be blank“  must be shown,,,,,,,,0|i000u6:zzzzzhy,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter value in Service Name field
+
+Press TAB and move to the next Field",,,,,,,,,,10157,Service Management,To Do,15/Jun/24 8:20 PM
+SM - Description - Description must not be blank,N1NJS1803-169,10182,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,15/Jun/24 8:17 PM,16/Jun/24 11:13 AM,17/Jun/24 7:05 AM,,,0,ServiceManagement,"*SM* - Description - Description must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Description field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Description must not be blank“  must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,N1NJS1803-168,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@26beec62,,,,{},,N1NJS1803-144,Service Management,,,An error message “Description must not be blank“  must be shown,,,,,,,,0|i000u6:zzzzzhx,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter value in Description field
+
+Press TAB and move to the next Field",,,,,,,,,,10157,Service Management,To Do,15/Jun/24 8:17 PM
+CA - Cancel Reason - Cancel Reason must not be blank,N1NJS1803-168,10181,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,15/Jun/24 5:12 PM,16/Jun/24 10:31 AM,15/Jun/24 5:38 PM,,,0,Cancellation,"*CA* - Cancel Reason - Cancel Reason must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Cancel Reason field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Cancel Reason must not be blank“  must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,N1NJS1803-169,,N1NJS1803-166,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4e51ce5b,,,,{},,N1NJS1803-90,Cancellation,,,An error message “Cancel Reason must not be blank“  must be shown,,,,,,,,0|i000y7:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Cancel Reason field
+
+Press TAB and move to the next Field",,,,,,,,,,10103,Cancellation,To Do,15/Jun/24 5:12 PM
+VD - Brief Comment - Brief Comment must not be blank,N1NJS1803-166,10179,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,15/Jun/24 5:07 PM,16/Jun/24 11:14 AM,17/Jun/24 7:05 AM,,,0,ValuateDiamond,"*VD* - Brief Comment - Brief Comment must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Brief Comment field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Brief Comment must not be blank“  must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,N1NJS1803-168,,N1NJS1803-58,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@49dabdca,,,,{},,N1NJS1803-7,Diamond Valuation,,,An error message “Brief Comment must not be blank“  must be shown,,,,,,,,0|i000u6:zzzzzhzzv,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter value in Brief Comment field
+
+Press TAB and move to the next Field",,,,,,,,,,10020,Diamond Valuation,To Do,15/Jun/24 5:07 PM
+DA - Size - Size weight must be the number,N1NJS1803-165,10178,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,15/Jun/24 12:13 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Size - Size must be the number
+
+*Step we’ll take…*
+
+# Enter not number in Size field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Size must be the number“ must be shown.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,N1NJS1803-60,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@46a5c44f,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Size must be the number“ must be shown.,,,,,,,,0|i000hq:,,,,,,,,Report,,,,,,,,,Unit,"Enter not number in Size field
+Press Tab and move to next Field",Pass,,,,,,,,,10017,Diamond Assessment,To Do,15/Jun/24 12:14 PM
+DA - Shape - Shape must not be blank,N1NJS1803-164,10177,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,15/Jun/24 12:11 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Shape - Shape must not be blank
+
+*Step we’ll take…*
+
+# Do not choose in Shape field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Shape must not be blank“ must be shown.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@38773e8a,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Shape must not be blank“ must be shown.,,,,,,,,0|i000k4:,,,,,,,,Report,,,,,,,,Unit,Unit,"Do not choose in Shape field
+Press Tab and move to next Field",Pass,,,,,,,,,10017,Diamond Assessment,To Do,15/Jun/24 12:11 PM
+Dashboard 1,N1NJS1803-163,10176,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:57 PM,13/Jun/24 10:57 PM,15/Jun/24 8:39 AM,,,0,,"As an admin, I want to have an intuitive and comprehensive dashboard, So that I can efficiently monitor and manage various aspects of the system or organization.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@267dc748,,,,{},,N1NJS1803-162,Dashboard,,,,,purple,,,,,,0|i000xr:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10175,Dashboard,To Do,13/Jun/24 10:57 PM
+Dashboard,N1NJS1803-162,10175,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:57 PM,13/Jun/24 10:57 PM,17/Jun/24 7:05 AM,,,0,,,,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6fac4218,,,,{},ghx-label-7,,,Dashboard,To Do,,,purple,,,,,,0|i000xj:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,13/Jun/24 10:57 PM
+Manage Blog 4,N1NJS1803-161,10174,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:51 PM,13/Jun/24 10:53 PM,17/Jun/24 7:05 AM,,,0,,"As a guest, I want to view blogs related to information of diamond, so that I can make informed decisions about purchasing, caring for, or investing in diamonds.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@308db84c,,,,{},,N1NJS1803-6,Manage Blog,,,,,purple,,,,,,0|i000xb:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10019,Manage Blog,To Do,13/Jun/24 10:51 PM
+Additional Detail Management 2,N1NJS1803-160,10173,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:51 PM,13/Jun/24 10:51 PM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to delete the pending detail in the valuation request, so that I can help the customer modify the appointment if they do come with right diamond amount",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1eb872c7,,,,{},,N1NJS1803-147,Additional Detail Management,,,,,purple,,,,,,0|i000x3:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10160,Additional Detail Management,To Do,13/Jun/24 10:51 PM
+Additional Detail Management 1,N1NJS1803-159,10172,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:51 PM,13/Jun/24 10:51 PM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to create a new detail in the valuation request, so that I can help customers add a diamond that they need to evaluate.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@459a825,,,,{},,N1NJS1803-147,Additional Detail Management,,,,,purple,,,,,,0|i000wv:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10160,Additional Detail Management,To Do,13/Jun/24 10:51 PM
+Payment 2,N1NJS1803-158,10171,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:50 PM,13/Jun/24 10:50 PM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to create the first payment for customers after they confirm valuation and before returning the diamond to the customer, so that the transaction process can proceed smoothly and ensure the customer's commitment to the transaction.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1e282ad7,,,,{},,N1NJS1803-134,Payment,,,,,purple,,,,,,0|i000wn:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10147,Payment,To Do,13/Jun/24 10:50 PM
+Record Management 2,N1NJS1803-157,10170,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:46 PM,13/Jun/24 10:46 PM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to view and save (print) created receipts, return records, and sealing records, so that I can ensure accessibility of documentation and provide copies to customers when needed.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@778b220e,,,,{},,N1NJS1803-146,Manage Record,,,,,purple,,,,,,0|i000wf:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10159,Manage Record,To Do,13/Jun/24 10:46 PM
+Record Management 1,N1NJS1803-156,10169,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:46 PM,13/Jun/24 10:46 PM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to create receipts, record returns, and seal records, so that  I can accurately document transactions and provide necessary documentation to customers.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@11f16148,,,,{},,N1NJS1803-146,Manage Record,,,,,purple,,,,,,0|i000w7:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10159,Manage Record,To Do,13/Jun/24 10:46 PM
+Valuation Approvement 2,N1NJS1803-155,10168,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:45 PM,13/Jun/24 10:45 PM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to choose all the valuation results from all staff and average the result to approve the diamond valuation, so that ensure an accurate and fair valuation of the diamonds.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@727d02dd,,,,{},,N1NJS1803-133,Valuation Approvement,,,,,purple,,,,,,0|i000vz:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10146,Valuation Approvement,To Do,13/Jun/24 10:45 PM
+Diamond Assessment 3,N1NJS1803-154,10167,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:44 PM,13/Jun/24 10:44 PM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to approve the diamond valuation, so that I can ensure the price of diamonds is reasonable.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@26a9fc74,,,,{},,N1NJS1803-4,Diamond Assessment,,,,,purple,,,,,,0|i000vr:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10017,Diamond Assessment,To Do,13/Jun/24 10:44 PM
+Manage Staff 3,N1NJS1803-153,10166,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:39 PM,13/Jun/24 10:40 PM,17/Jun/24 7:05 AM,,,0,,"As a manager, view all staff along with their current project assignments and total number of projects they have completed, so that I can assign suitable tasks/projects based on their current workload and expertise.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4935e535,,,,{},,N1NJS1803-143,"Manage Staff
+",,,,,purple,,,,,,0|i000vj:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10156,"Manage Staff
+",To Do,13/Jun/24 10:39 PM
+Manage Staff 2,N1NJS1803-152,10165,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:39 PM,13/Jun/24 10:40 PM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to assign one or many valuation staff to the request detail/valuation assignment, so that the valuation requests are handled efficiently and appropriately.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5a93ea76,,,,{},,N1NJS1803-143,"Manage Staff
+",,,,,purple,,,,,,0|i000vb:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10156,"Manage Staff
+",To Do,13/Jun/24 10:39 PM
+Manage Staff 1,N1NJS1803-151,10164,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:39 PM,13/Jun/24 10:39 PM,17/Jun/24 7:05 AM,,,0,,"As a manager, i want to assign only one consultant to the request, so that that consultant can do his/her jobs about the appointment",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3ceb591c,,,,{},,N1NJS1803-143,"Manage Staff
+",,,,,purple,,,,,,0|i000v3:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10156,"Manage Staff
+",To Do,13/Jun/24 10:39 PM
+Manage Request 3,N1NJS1803-150,10163,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:26 PM,13/Jun/24 10:34 PM,17/Jun/24 7:05 AM,,,0,,"As a guest, I want to give feedback about the service of the company, so that helping the company improve its services ",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@493fd3a4,,,,{},,N1NJS1803-9,Manage Request,,,,,purple,,,,,,0|i000uv:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10022,Manage Request,To Do,13/Jun/24 10:26 PM
+Diamond Check 2,N1NJS1803-149,10162,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:22 PM,13/Jun/24 10:23 PM,17/Jun/24 7:05 AM,,,0,,"As a guest, I want to check my diamond by certificate ID, so that I can verify its authenticity and current market value.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@649b3d2b,,,,{},,N1NJS1803-3,Diamond Check,,,,,purple,,,,,,0|i000un:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10016,Diamond Check,To Do,13/Jun/24 10:22 PM
+Diamond Calculation 1,N1NJS1803-148,10161,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:21 PM,13/Jun/24 10:22 PM,17/Jun/24 7:05 AM,,,0,,"As a guest, I want to view the calculation of my diamond price based on the diamond attribute inputted from the screen, so that I can understand the estimated value of my diamond.",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@40c425d,,,,{},,N1NJS1803-145,Diamond Calculation,,,,,purple,,,,,,0|i000uf:,,,,,,,,,,,,,,,,,,,,,,,,,,,,10158,Diamond Calculation,To Do,13/Jun/24 10:21 PM
+Additional Detail Management,N1NJS1803-147,10160,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:19 PM,15/Jun/24 3:01 PM,17/Jun/24 7:05 AM,,,0,,,,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@73f0da2d,,,,{},ghx-label-7,,,Additional Detail Management,To Do,,,purple,,,,,,0|i00043:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,13/Jun/24 10:19 PM
+Manage Record,N1NJS1803-146,10159,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:18 PM,13/Jun/24 10:46 PM,17/Jun/24 7:05 AM,,,0,,,,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3f924367,,,,{},ghx-label-7,,,Manage Record,To Do,,,purple,,,,,,0|i00032:z,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,13/Jun/24 10:18 PM
+Diamond Calculation,N1NJS1803-145,10158,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,13/Jun/24 10:15 PM,13/Jun/24 10:21 PM,17/Jun/24 7:05 AM,,,0,,,,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@67f0f0ff,,,,{},ghx-label-7,,,Diamond Calculation,To Do,,,purple,,,,,,0|i0002z:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,13/Jun/24 10:15 PM
+Service Management,N1NJS1803-144,10157,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,12/Jun/24 10:08 PM,15/Jun/24 8:21 PM,17/Jun/24 7:05 AM,,,0,,,,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6ba38513,,,,{},ghx-label-7,,,Service Management,To Do,,,purple,,,,,,0|i00032:zr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,12/Jun/24 10:08 PM
+"Manage Staff
+",N1NJS1803-143,10156,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,12/Jun/24 10:06 PM,13/Jun/24 10:39 PM,17/Jun/24 7:05 AM,,,0,,,,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1baae098,,,,{},ghx-label-7,,,Account Management,To Do,,,purple,,,,,,0|i00032:d,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,12/Jun/24 10:06 PM
+UP - Phone - Phone must be number,N1NJS1803-142,10155,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,09/Jun/24 10:14 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"*UP* - Phone - Phone must be number
+*Step we’ll take…*
+
+# Enter character in Phone Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Phone must be number” must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-100,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@50511d63,,,,{},,N1NJS1803-8,Update Profile,,,An error massage “Phone must be number” must be shown,,,,,,,,0|i000tz:,,,,,,,,Report,,,,,,,,,Unit,"Enter character in Phone Field
+
+Press TAB or move to next Field",,,,,,,,,,10021,Update Profile,To Do,09/Jun/24 10:14 PM
+UP - Phone - Special characters are not allowed,N1NJS1803-141,10154,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,09/Jun/24 10:13 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"*UP* - Phone - Special characters are not allowed
+*Step we’ll take…*
+
+# Enter a special character in Phone Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Special characters are not allowed” must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7d33a31d,,,,{},,N1NJS1803-8,Update Profile,,,An error massage “Special characters are not allowed” must be shown,,,,,,,,0|i000tr:,,,,,,,,Report,,,,,,,,,Unit,"Enter a special character in Phone Field
+
+Press TAB or move to next Field",,,,,,,,,,10021,Update Profile,To Do,09/Jun/24 10:13 PM
+UP - Phone - Phone must not be blank,N1NJS1803-140,10153,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,09/Jun/24 10:12 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"*UP* - Phone - Phone must not be blank
+*Step we’ll take…*
+
+# Do not enter a value in Phone Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Phone must not be blank” must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-100,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@619b8a3b,,,,{},,N1NJS1803-8,Update Profile,,,An error massage “Phone must not be blank” must be shown,,,,,,,,0|i000tj:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter a value in Phone Field
+
+Press TAB or move to next Field",,,,,,,,,,10021,Update Profile,To Do,09/Jun/24 10:12 PM
+UP - Username - Username already exists,N1NJS1803-139,10152,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,09/Jun/24 10:10 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"*UP* - Username - Username already exists
+*Step we’ll take…*
+
+# Enter values in Username Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Username already exists” must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-100,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@665e3a20,,,,{},,N1NJS1803-8,Update Profile,,,An error massage “Username already exists” must be shown,,,,,,,,0|i000tb:,,,,,,,,Report,,,,,,,,,Unit,"Enter values in Username Field
+
+Press TAB or move to next Field",,,,,,,,,,10021,Update Profile,To Do,09/Jun/24 10:10 PM
+P80 - Price - The price on payment must equal the price of the service.,N1NJS1803-136,10149,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 9:23 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"*P79*    Price - The price on payment must equal the price of the service.
+
+*Step we’ll take…*
+
+# Compare price in payment and price in service.
+
+*Sucess is…*✨ 
+
+An error message “The price on payment must equal the price of the service..“ must be shown.",,Automation for Jira,Nguyen Quoc Dat (K17 HCM),557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-95,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@30e0f8e5,,,,{},,N1NJS1803-134,Payment,,,An error message “The price on payment must equal the price of the service..“ must be shown.,,,,,,,,0|i000ke:,,,,,,,,Report,,,,,,,,,Unit,Compare price in payment and price in service.,Pass,,,,,,2024-06-09 14:23:15.657,,09/Jun/24 9:23 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;Please prodive a reason for giving a score of 0,10147,Payment,To Do,09/Jun/24 9:23 PM
+VA - Approve - Approvement Field must not be blank,N1NJS1803-135,10148,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 9:16 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,ValuationApprovement,"*VA -* Approve - Approvement Field must not be blank.
+
+*Step we’ll take…*
+
+# Do not choose in Approvement Field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Approvement Field must not be blank.“ must be shown.",,Automation for Jira,Nguyen Quoc Dat (K17 HCM),557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@daf50bb,,,,{},,N1NJS1803-133,Valuation Approvement,,,An error message “Approvement Field must not be blank.“ must be shown.,,,,,,,,0|i000kd:,,,,,,,0.0,Report,,,,,,,,,Unit,"Do not choose in Approvement Field
+Press Tab and move to next Field",Pass,,,,,,2024-06-09 14:17:04.152,,09/Jun/24 9:17 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;Please prodive a reason for giving a score of 0,10146,Valuation Approvement,To Do,09/Jun/24 9:17 PM
+Payment,N1NJS1803-134,10147,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 9:14 PM,13/Jun/24 10:50 PM,17/Jun/24 7:05 AM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5db82194,,,,{},ghx-label-10,,,,To Do,,,blue,,,,,,0|i0003z:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,09/Jun/24 9:14 PM
+Valuation Approvement,N1NJS1803-133,10146,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 9:13 PM,13/Jun/24 10:45 PM,17/Jun/24 7:05 AM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@67ab5b30,,,,{},ghx-label-10,,,,To Do,,,blue,,,,,,0|i00032:x,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,09/Jun/24 9:13 PM
+NT78 - Size - Size must be numeric value.,N1NJS1803-132,10145,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 9:05 PM,16/Jun/24 10:31 AM,15/Jun/24 8:30 AM,,,0,,"*NT78*    Size - Size must be numeric value.
+
+*Step we’ll take…*
+
+# Enter a character in Size Field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Size must be numeric value.“ must be shown.",,Automation for Jira,Nguyen Quoc Dat (K17 HCM),557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@20ee0535,,,,{},,N1NJS1803-147,Additional Detail Management,,,An error message “Size must be numeric value.“ must be shown.,,,,,,,,0|i000kb:,,,,,,,,Report,,,,,,,,,Unit,"Enter a character in Size Field
+Press Tab and move to next Field",Pass,,,,,,2024-06-09 14:05:59.493,,09/Jun/24 9:05 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;Please prodive a reason for giving a score of 0,10160,Additional Detail Management,To Do,09/Jun/24 9:05 PM
+Cancellation 3,N1NJS1803-131,10144,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to cancel the valuation detail if the stone is not a diamond.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@cfa38a3,,,,{},,N1NJS1803-90,Cancellation,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzv,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10103,Cancellation,To Do,09/Jun/24 8:59 PM
+Cancellation 2,N1NJS1803-130,10143,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to cancel the valuation request by adding some reason.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5d0975c7,,,,{},,N1NJS1803-90,Cancellation,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzr,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10103,Cancellation,To Do,09/Jun/24 8:59 PM
+Cancellation 1,N1NJS1803-129,10142,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a customer, I want to cancel my request if it's in PENDING state.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@50f0ac3a,,,,{},,N1NJS1803-90,Cancellation,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzi,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10103,Cancellation,To Do,09/Jun/24 8:59 PM
+Sign Up,N1NJS1803-128,10141,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a guest, I want to sign up for the system with general information.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-26,N1NJS1803-25,N1NJS1803-10,N1NJS1803-36,N1NJS1803-24,N1NJS1803-38,N1NJS1803-52,N1NJS1803-39,N1NJS1803-41,N1NJS1803-53,N1NJS1803-51,N1NJS1803-45,N1NJS1803-55,N1NJS1803-54,N1NJS1803-42,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@586e1548,,,,{},,N1NJS1803-1,Sign up,,,,,,,,N1NJS1803,,,0|i000u6:zzzzz,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10014,Sign up,To Do,09/Jun/24 8:59 PM
+Diamond Price Management 5,N1NJS1803-127,10140,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to CRUD the supplier.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@53bd7cd5,,,,{},,N1NJS1803-89,Diamond Price Management,,,,,,,,N1NJS1803,,,0|i000u6:zzzzy,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10102,Diamond Price Management,To Do,09/Jun/24 8:59 PM
+Diamond Price Management 4,N1NJS1803-126,10139,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to view all the diamond prices in a list.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@41731c56,,,,{},,N1NJS1803-89,Diamond Price Management,,,,,,,,N1NJS1803,,,0|i000u6:zzzzx,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10102,Diamond Price Management,To Do,09/Jun/24 8:59 PM
+Diamond Price Management 3,N1NJS1803-125,10138,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to delete the diamond price.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@37319dae,,,,{},,N1NJS1803-89,Diamond Price Management,,,,,,,,N1NJS1803,,,0|i000u6:zzzzv,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10102,Diamond Price Management,To Do,09/Jun/24 8:59 PM
+Diamond Price Management 2,N1NJS1803-124,10137,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to update the diamond price.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@28f4c9cc,,,,{},,N1NJS1803-89,Diamond Price Management,,,,,,,,N1NJS1803,,,0|i000u6:zzzzr,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10102,Diamond Price Management,To Do,09/Jun/24 8:59 PM
+Diamond Price Management 1,N1NJS1803-123,10136,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to add a new diamond price based on the supplier.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@55b8fc99,,,,{},,N1NJS1803-89,Diamond Price Management,,,,,,,,Story,,,0|i000u6:zzzzi,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10102,Diamond Price Management,To Do,09/Jun/24 8:59 PM
+Manage Account 6,N1NJS1803-122,10135,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As an admin, I want to ban the customer.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@18edcb3d,,,,{},,N1NJS1803-5,Manage Account,,,,,,,,N1NJS1803,,,0|i000u6:zzzz,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10018,Manage Account,To Do,09/Jun/24 8:59 PM
+Manage Account 5,N1NJS1803-121,10134,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As an admin, I want to view all the customers.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@32c5a3e7,,,,{},,N1NJS1803-5,Manage Account,,,,,,,,N1NJS1803,,,0|i000u6:zzzy,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10018,Manage Account,To Do,09/Jun/24 8:59 PM
+Manage Account 4,N1NJS1803-120,10133,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to view all the consultant staff and valuation staff, so that I can view their status and their work.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6ac2ee6c,,,,{},,N1NJS1803-5,Manage Account,,,,,,,,N1NJS1803,,,0|i000u6:zzzx,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10018,Manage Account,To Do,09/Jun/24 8:59 PM
+Manage Account 3,N1NJS1803-119,10132,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As an admin, I want to view all the staff.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@396c43d7,,,,{},,N1NJS1803-5,Manage Account,,,,,,,,N1NJS1803,,,0|i000u6:zzzv,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10018,Manage Account,To Do,09/Jun/24 8:59 PM
+Manage Account 2,N1NJS1803-118,10131,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As an admin, I want to update/change the staff role.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@73e6702a,,,,{},,N1NJS1803-5,Manage Account,,,,,,,,N1NJS1803,,,0|i000u6:zzzr,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10018,Manage Account,To Do,09/Jun/24 8:59 PM
+Manage Accoun 1,N1NJS1803-117,10130,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As an admin, I want to create new staff including manager, consultant staff, and valuation staff accounts.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-12,N1NJS1803-27,N1NJS1803-15,N1NJS1803-22,N1NJS1803-23,N1NJS1803-46,N1NJS1803-30,N1NJS1803-29,N1NJS1803-28,N1NJS1803-34,N1NJS1803-31,N1NJS1803-33,N1NJS1803-35,N1NJS1803-32,N1NJS1803-14,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@360c3b6a,,,,{},,N1NJS1803-5,Manage Account,,,,,,,,N1NJS1803,,,0|i000u6:zzzi,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10018,Manage Account,To Do,09/Jun/24 8:59 PM
+Diamond Assessment 2,N1NJS1803-116,10129,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a valuation staff,I want to be able to assess the value of diamond,so that I can provide accurate valuations based on its characteristics.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4410a4d4,,,,{},,N1NJS1803-4,Diamond Assessment,,,,,,,,N1NJS1803,,,0|i000u6:zzz,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10017,Diamond Assessment,To Do,09/Jun/24 8:59 PM
+Service Price List Management,N1NJS1803-115,10128,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 11:13 AM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to manage the service price list, so that I can ensure the pricing is accurate and up-to-date.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6a3adfff,,,,{},,N1NJS1803-144,Service Management,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzhv,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10157,Service Management,To Do,09/Jun/24 8:59 PM
+Manage Blog 3,N1NJS1803-114,10127,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As an admin, I can delete blogs.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@712245ef,,,,{},,N1NJS1803-6,Manage Blog,,,,,,,,N1NJS1803,,,0|i000u6:zzx,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10019,Manage Blog,To Do,09/Jun/24 8:59 PM
+Manage Blog 2,N1NJS1803-113,10126,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As an admin, I can add new blogs to provide information about diamonds for customers.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-56,N1NJS1803-57,N1NJS1803-48,N1NJS1803-49,N1NJS1803-50,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@78c76db4,,,,{},,N1NJS1803-6,Manage Blog,,,,,,,,N1NJS1803,,,0|i000u6:zzv,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10019,Manage Blog,To Do,09/Jun/24 8:59 PM
+Manage Blog 1,N1NJS1803-112,10125,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As an admin, I want to manage the blog section, so that I can provide updates and information to customers.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@a14821e,,,,{},,N1NJS1803-6,Manage Blog,,,,,,,,N1NJS1803,,,0|i000u6:zzr,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10019,Manage Blog,To Do,09/Jun/24 8:59 PM
+Diamond Assessment 1,N1NJS1803-110,10123,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to enter the dimensions of a diamond and provide a receipt, so that I can complete the assessment and valuation process accurately",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6f7e8fa3,,,,{},,N1NJS1803-4,Diamond Assessment,,,,,,,,N1NJS1803,,,0|i000u6:zzi,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10017,Diamond Assessment,To Do,09/Jun/24 8:59 PM
+Sign In 5,N1NJS1803-109,10122,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:32 AM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to sign in to the system, so that I can manage my consultation tasks and valuation requests.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-66,N1NJS1803-65,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7a99a486,,,,{},,N1NJS1803-2,Sign In,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzhr,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10015,Sign In,To Do,09/Jun/24 8:59 PM
+Sign In 4,N1NJS1803-108,10121,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 6:53 PM,17/Jun/24 7:05 AM,,,0,,"As a valuation staff, I want to sign in to the system, so that I can access and manage valuation tasks.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2044fc84,,,,{},,N1NJS1803-2,Sign In,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzhi,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10015,Sign In,To Do,09/Jun/24 8:59 PM
+Sign In 3,N1NJS1803-107,10120,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:32 AM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to sign in to the system, so that I can manage diamond prices, suppliers, and view staff activities.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,N1NJS1803-66,N1NJS1803-65,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6a559c14,,,,{},,N1NJS1803-2,Sign In,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzh,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10015,Sign In,To Do,09/Jun/24 8:59 PM
+Sign In 2,N1NJS1803-106,10119,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 6:53 PM,17/Jun/24 12:35 AM,,,0,,"As an admin, I want to sign in to the system, so that I can manage staff accounts, customer accounts, and system settings.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@750a0604,,,,{},,N1NJS1803-2,Sign In,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzg,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10015,Sign In,To Do,09/Jun/24 8:59 PM
+Sign In 1,N1NJS1803-105,10118,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:32 AM,17/Jun/24 12:35 AM,,,0,,"As a user, I want to sign in to the system, so that I can access my account and perform authorized actions.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,N1NJS1803-65,N1NJS1803-66,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@433e0f81,,,,{},,N1NJS1803-2,Sign In,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzf,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10015,Sign In,To Do,09/Jun/24 8:59 PM
+Diamond Valuation 3,N1NJS1803-104,10117,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 11:14 AM,17/Jun/24 7:05 AM,,,0,,"As a valuation staff, I want to provide a price for the diamond based on my professional experience and detailed diamond information, ensuring the valuation is accurate and reliable.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-61,N1NJS1803-62,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@41bae4ae,,,,{},,N1NJS1803-7,Diamond Valuation,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzhzzr,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10020,Diamond Valuation,To Do,09/Jun/24 8:59 PM
+Diamond Valuation 2,N1NJS1803-103,10116,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 11:14 AM,17/Jun/24 7:05 AM,,,0,,"As a valuation staff member, I want to valuate the diamond by using my professional experience, so that the valuation is accurate and reliable.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-58,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1ede94b6,,,,{},,N1NJS1803-7,Diamond Valuation,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzhzzi,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10020,Diamond Valuation,To Do,09/Jun/24 8:59 PM
+Diamond Valuation 1,N1NJS1803-102,10115,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 11:14 AM,16/Jun/24 11:58 PM,,,0,,"As a valuation staff, I want to view the valuation details for all diamonds, so that I can manage the valuation process effectively.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7de33da2,,,,{},,N1NJS1803-7,Diamond Valuation,,,,,,,,N1NJS1803,,,0|i000u6:zzzzzhzz,,,,,,,,Set up,,,,,,,,,,,,,,,,,,,,10020,Diamond Valuation,To Do,09/Jun/24 8:59 PM
+Diamond Check 1,N1NJS1803-101,10114,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to check if a stone is a diamond and view the current price of that diamond following the market price, so that I can proceed with the correct valuation process.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-78,N1NJS1803-74,N1NJS1803-79,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4a690dfd,,,,{},,N1NJS1803-3,Diamond Check,,,,,,,,N1NJS1803,,,0|i000u6:x,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10016,Diamond Check,To Do,09/Jun/24 8:59 PM
+Update Profile 1,N1NJS1803-100,10113,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a user, I want to update my personal profile information, so that my details are accurate and up to date.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-142,N1NJS1803-64,N1NJS1803-67,N1NJS1803-139,N1NJS1803-63,N1NJS1803-140,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@27bf108b,,,,{},,N1NJS1803-8,Update Profile,,,,,,,,N1NJS1803,,,0|i000u6:v,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10021,Update Profile,To Do,09/Jun/24 8:59 PM
+Valuation Approvement 1,N1NJS1803-99,10112,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a manager, I want to choose one valuation result from one staff member to approve the diamond valuation, so that I can ensure the price of diamonds is reasonable.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7aa0819a,,,,{},,N1NJS1803-133,Valuation Approvement,,,,,,,,N1NJS1803,,,0|i000u6:r,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10146,Valuation Approvement,To Do,09/Jun/24 8:59 PM
+"Manage Request 2
+",N1NJS1803-97,10110,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a consultant staff, I want to create an appointment, so that I can help customers create appointments without registering",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-17,N1NJS1803-13,N1NJS1803-82,N1NJS1803-83,N1NJS1803-16,N1NJS1803-19,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1caa1bd9,,,,{},,N1NJS1803-9,Manage Request,,,,,,,,N1NJS1803,,,0|i000u6:,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10022,Manage Request,To Do,09/Jun/24 8:59 PM
+Manage Request 1,N1NJS1803-96,10109,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"As a customer, I want to create an appointment, so that I can know the price of my diamonds",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-13,N1NJS1803-17,N1NJS1803-82,N1NJS1803-83,N1NJS1803-16,N1NJS1803-19,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2565dbfc,,,,{},,N1NJS1803-9,Manage Request,,,,,,,,N1NJS1803,,,0|i000u5:,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10022,Manage Request,To Do,09/Jun/24 8:59 PM
+Payment 1,N1NJS1803-95,10108,Story,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,09/Jun/24 8:59 PM,16/Jun/24 10:31 AM,16/Jun/24 11:57 PM,,,0,,"As a consultant staff, I want to create the first payment for customers before they sign the receipt record, so that customers can initiate the transaction process with confidence and commitment.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,N1NJS1803-136,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3346a925,,,,{},,N1NJS1803-134,Payment,,,,,,,,N1NJS1803,,,0|i000u3:,,,,,,,,Report,,,,,,,,,,,,,,,,,,,,10147,Payment,To Do,09/Jun/24 8:59 PM
+Cancellation,N1NJS1803-90,10103,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,07/Jun/24 11:47 PM,15/Jun/24 8:18 PM,07/Jun/24 11:47 PM,,,0,,,,Pham Nguyen Trong Tuan (K17 HCM),,712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4f532a55,,,,{},ghx-label-7,,,Cancellation,To Do,,,purple,,,,,,0|i00032:y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,07/Jun/24 11:47 PM
+Diamond Price Management,N1NJS1803-89,10102,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,07/Jun/24 11:46 PM,13/Jun/24 10:18 PM,07/Jun/24 11:48 PM,,,0,,,,Pham Nguyen Trong Tuan (K17 HCM),,712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@a6e1e88,,,,{},ghx-label-7,,,Diamond Price Management,To Do,,,purple,,,,,,0|i00032:zi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,07/Jun/24 11:46 PM
+MA - First name- Numbers are not allowed,N1NJS1803-88,10101,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:26 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"*MA -* First name- Numbers are not allowed
+
+*Step we’ll take…*
+
+# Enter a number in First name Field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Numbers are not allowed“ must be shown.",,Automation for Jira,Nguyen Quoc Dat (K17 HCM),557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@512ff33d,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Numbers are not allowed“ must be shown.,,,,,,,,0|i000k6:x,,,,,,,0.0,Report,,,,,,,,,Unit,"Enter a number in First name Field
+Press Tab and move to next Field",Pass,,,,,,2024-06-09 02:03:09.465,,09/Jun/24 9:03 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;Please prodive a reason for giving a score of 0,10018,Manage Account,To Do,02/Jun/24 5:26 PM
+MA - First Name- First name must not be blank,N1NJS1803-87,10100,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:26 PM,16/Jun/24 10:31 AM,13/Jun/24 8:52 AM,,,0,,"*MA -* First Name- First name must not be blank
+
+*Step we’ll take…*
+
+# Do not enter in First name field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “First name must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@46375c02,,,,{},,N1NJS1803-5,Manage Account,,,An error message “First name must not be blank“ must be shown.,,,,,,,,0|i000k6:v,,,,,,,,Report,,,,,,,,,Unit,"Do not enter in First name field
+Press Tab and move to next Field",Pass,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 5:26 PM
+MA - Username - Username already exists,N1NJS1803-86,10099,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:25 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"*MA -* Username - Username already exists
+
+*Step we’ll take…*
+
+# Enter an exist username in Username filed
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Username already exists“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@71c6c29a,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Username already exists“ must be shown.,,,,,,,,0|i000k6:r,,,,,,,,Report,,,,,,,,,Unit,"Do not enter in Username field
+Press Tab and move to next Field",Pass,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 5:25 PM
+MA - Username - Username can not contain space,N1NJS1803-85,10098,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:25 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"*MA -* Username - Username can not contain space
+
+*Step we’ll take…*
+
+# Enter a space in Username field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Username can not contain space“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@461184b9,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Username can not contain space“ must be shown.,,,,,,,,0|i000k6:i,,,,,,,,Report,,,,,,,,,Unit,"Enter a space in Username field
+Press Tab and move to next Field",Pass,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 5:25 PM
+MA - Username - Username must be alphanumeric 6-24 characters,N1NJS1803-84,10097,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:19 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,,"*MA -* Username - Username must be alphanumeric 6-24 characters
+
+*Step we’ll take…*
+
+# Enter only 5 characters in Username field.
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Username must be alphanumeric 6-24 characters“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@65c448d0,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Username must be alphanumeric 6-24 characters“ must be shown.,,,,,,,,0|i000k6:,,,,,,,,Report,,,,,,,,,Unit,"Enter only 5 characters in Username field.
+Press Tab and move to next Field",Pass,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 5:19 PM
+MR - Quantity- Quantity must be greater than 0,N1NJS1803-83,10096,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 5:16 PM,16/Jun/24 10:31 AM,16/Jun/24 11:04 AM,,,0,ManageRequest,"*MR* - Quantity- Quantity must be greater than 0
+*Step we’ll take…*
+
+# Enter a value equal 0 in Quantity Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Quantity must be greater than 0” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-96,N1NJS1803-97,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@19efcf26,,,,{},,N1NJS1803-9,Manage Request,,,An error massage “Quantity must be greater than 0” must be shown,,,,,,,,0|i000k7:,,,,,,,,Report,,,,,,,,,Unit,"Enter a value equal 0 in Quantity Field
+
+Press TAB or move to next Field",,,,,,,,,,10022,Manage Request,To Do,02/Jun/24 5:16 PM
+MR - Service - Service must not  be blank,N1NJS1803-82,10095,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 5:16 PM,16/Jun/24 10:59 AM,16/Jun/24 11:05 AM,,,0,ManageRequest,"*MR* - Service - Service must not  be blank
+*Step we’ll take…*
+
+# Do not enter a value in Service Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Service must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-96,N1NJS1803-97,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1a2944c,,,,{},,N1NJS1803-9,Manage Request,,,An error massage “Service must not be blank” must be shown,,,,,,,,0|i000jz:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter a value in Service Field
+
+Press TAB or move to next Field",Fail,,,,,,,,,10022,Manage Request,To Do,02/Jun/24 5:16 PM
+DA - Polish - Polish must not be blank,N1NJS1803-81,10094,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:13 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Polish - Polish must not be blank
+
+*Step we’ll take…*
+
+# Do not choose in Polish field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Polish must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4bdcec8d,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Polish must not be blank“ must be shown.,,,,,,,,0|i000k5:,,,,,,,,Report,,,,,,,,,Unit,"Do not choose in Polish field
+Press Tab and move to next Field",Pass,,,,,,,,,10017,Diamond Assessment,To Do,02/Jun/24 5:13 PM
+DA - Clarity - Clarity must not be blank,N1NJS1803-80,10093,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:13 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Clarity - Clarity must not be blank
+
+*Step we’ll take…*
+
+# Do not choose in Clarity field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Clarity must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5a3e1c,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Clarity must not be blank“ must be shown.,,,,,,,,0|i000k3:,,,,,,,,Report,,,,,,,,,Unit,"Do not choose in Clarity field
+Press Tab and move to next Field",Pass,,,,,,,,,10017,Diamond Assessment,To Do,02/Jun/24 5:13 PM
+DC - CertificateID - CertificateID must be 10 digits,N1NJS1803-79,10092,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 5:11 PM,16/Jun/24 11:06 AM,16/Jun/24 11:06 AM,,,0,DiamondCheck,"*SU10* - CertificateID - CertificateID must be 10 digits
+*Step we’ll take…*
+
+# Enter 9 digits number in CertificateID Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “CertificateID must be 10 digits” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-101,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@67dcf66a,,,,{},,N1NJS1803-3,Diamond Check,,,An error massage “CertificateID must be 10 digits” must be shown,,,,,,,,0|i000jb:,,,,,,,,Report,,,,,,,,,Unit,"Enter 9 digits number in CertificateID Field
+Press TAB or move to next Field",Pass,,,,,,,,,10016,Diamond Check,To Do,02/Jun/24 5:11 PM
+DC - CertificateID - CertificateID must be numeric.,N1NJS1803-78,10091,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 5:11 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondCheck,"*DC* - CertificateID - CertificateID must be numeric.
+*Step we’ll take…*
+
+# Enter a character in CertificateID Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “CertificateID must be numeric.” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-101,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5049abc6,,,,{},,N1NJS1803-3,Diamond Check,,,An error massage “CertificateID must be numeric.” must be shown,,,,,,,,0|i000j3:,,,,,,,,Report,,,,,,,,,Unit,"Enter a character in CertificateID Field
+Press TAB or move to next Field",Fail,,,,,,,,,10016,Diamond Check,To Do,02/Jun/24 5:11 PM
+DC - CertificateID - CertificateID must not be blank,N1NJS1803-74,10087,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 5:09 PM,16/Jun/24 10:31 AM,15/Jun/24 8:08 AM,,,0,DiamondCheck,"*SU10* - Email - Email ID must not be blank 
+*Step we’ll take…*
+
+# Do not enter a value in Email Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Email must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-101,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3d7ef8f0,,,,{},,N1NJS1803-3,Diamond Check,,,An error massage “CertificateID must not be blank” must be shown,,,,,,,,0|i000iv:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter a value in CertificateID Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10016,Diamond Check,To Do,02/Jun/24 5:09 PM
+DA - Cut - Cut must not be blank,N1NJS1803-73,10086,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:06 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Cut - Cut must not be blank
+
+*Step we’ll take…*
+
+# Do not choose in Cut field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Cut must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@60c20771,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Cut must not be blank“ must be shown.,,,,,,,,0|i000in:,,,,,,,,Report,,,,,,,,,Unit,"Do not choose in Cut field
+Press Tab and move to next Field",Pass,,,,,,,,,10017,Diamond Assessment,To Do,02/Jun/24 5:06 PM
+DA - Fluorescent - Fluorescent must not be blank,N1NJS1803-72,10085,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:06 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Fluorescent - Fluorescent must not be blank
+
+*Step we’ll take…*
+
+# Do not choose in Fluorescent field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Fluorescent must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,N1NJS1803-69,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1aa2dfbf,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Fluorescent must not be blank“ must be shown.,,,,,,,,0|i000if:,,,,,,,,Report,,,,,,,,,Unit,"Do not choose in Fluorescent field
+Press Tab and move to next Field",Pass,,,,,,,,,10017,Diamond Assessment,To Do,02/Jun/24 5:06 PM
+DA - Symmetry - Symmetry must not be blank,N1NJS1803-71,10084,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:05 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Symmetry - Symmetry must not be blank
+
+*Step we’ll take…*
+
+# Do not choose in Symmetry field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Symmetry must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@897736,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Symmetry must not be blank“ must be shown.,,,,,,,,0|i000i7:,,,,,,,,Report,,,,,,,,,Unit,"Do not choose in Symmetry field
+Press Tab and move to next Field",Pass,,,,,,,,,10017,Diamond Assessment,To Do,02/Jun/24 5:06 PM
+DA - Color - Color must not be blank,N1NJS1803-69,10082,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 5:03 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Color - Color must not be blank
+
+*Step we’ll take…*
+
+# Do not choose in Color field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Color must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,N1NJS1803-72,,N1NJS1803-60,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6417eb12,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Color must not be blank“ must be shown.,,,,,,,,0|i000i6:i,,,,,,,,Report,,,,,,,,,Unit,"Do not choose in Color field
+
+Press Tab and move to next Field",Pass,,,,,,,,,10017,Diamond Assessment,To Do,02/Jun/24 5:03 PM
+UP - Password - Enter at least 8+ characters,N1NJS1803-67,10080,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 5:01 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,ChangePassword,"*UP* - Password - Enter at least 8+ characters
+
+*Step we’ll take…*
+
+# Enter less than 8 characters in Password field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Enter at least 8 characters“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-100,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@779cb2f,,,,{},,N1NJS1803-8,Update Profile,,,An error message “Enter at least 8 characters“  must be shown,,,,,,,,0|i000hb:,,,,,,,,Report,,,,,,,,,Unit,"Enter less than 8 characters in New Password field
+
+Press TAB and move to the next Field",,,,,,,,,,10021,Update Profile,To Do,02/Jun/24 5:01 PM
+SI - Password - Password must not be blank,N1NJS1803-66,10079,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 5:00 PM,17/Jun/24 12:39 AM,17/Jun/24 12:35 AM,,,0,SignIn,"*SI10* - Password - Password must not be blank 
+*Step we’ll take…*
+
+# Do not enter a value in Password Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Password is required” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,N1NJS1803-105,N1NJS1803-107,,,,,,,,,,,,,,,,,,,N1NJS1803-109,,17/Jun/24 12:37 AM;712020:33151d40-f4e1-41de-af70-3903cabe4ee5;image-20240616-173657.png;https://nguyen-quoc-dat-k17-hcm.atlassian.net/rest/api/3/attachment/content/10002,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7e7eee2,,,,{},,N1NJS1803-2,Sign In,,,"An error massage ""Password is required"" must be shown",,,,,,,,0|i000u6:zzzzzd,,,,,,,,Set up,,,,,,,,Unit,Unit,"Do not enter a value in Password Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10015,Sign In,To Do,02/Jun/24 5:00 PM
+SI - Username - Username or email must not be blank,N1NJS1803-65,10078,Testcase,Done,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,Done,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 5:00 PM,17/Jun/24 12:35 AM,17/Jun/24 12:35 AM,17/Jun/24 12:35 AM,,0,SignIn,"*SI* - Username - Username or Email must not be blank 
+*Step we’ll take…*
+
+# Do not enter a value in Username Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Username or Email must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,N1NJS1803-105,N1NJS1803-107,,,,,,,,,,,,,,,,,,,N1NJS1803-109,,17/Jun/24 12:35 AM;712020:33151d40-f4e1-41de-af70-3903cabe4ee5;image-20240616-173521.png;https://nguyen-quoc-dat-k17-hcm.atlassian.net/rest/api/3/attachment/content/10001,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@47c0b914,,,,{},,N1NJS1803-2,Sign In,,,An error massage “Username or Email must not be blank” must be shown,,,,,,,,0|i000u6:zzzzz9,,,,,,,,Set up,,,,,,,,Unit,Unit,"Do not enter a value in Username Field
+
+Press TAB or move to next Field",Pass,,,,,,,10000_*:*_1_*:*_1236870924_*|*_10001_*:*_1_*:*_0,,10015,Sign In,Done,17/Jun/24 12:35 AM
+UP - Username - Username must be alphanumeric 6-24 characters,N1NJS1803-64,10077,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:59 PM,16/Jun/24 10:31 AM,06/Jun/24 9:41 PM,,,0,ChangePassword,"*UP* - Username - Username must be alphanumeric 6-24 characters
+
+*Step we’ll take…*
+
+# Enter less than 6 or more than 24 characters in Username field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Username must be alphanumeric 6-24 characters“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-100,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7309a787,,,,{},,N1NJS1803-8,Update Profile,,,An error message “Username must be alphanumeric 6-24 characters“  must be shown,,,,,,,,0|i000gn:,,,,,,,,Report,,,,,,,,,Unit,"Enter less than 6 or more than 24 characters in Username field
+
+Press TAB and move to the next Field",,,,,,,,,,10021,Update Profile,To Do,02/Jun/24 4:59 PM
+UP - Username - Username must not be blank,N1NJS1803-63,10076,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:58 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,ChangePassword,"*UP* - Username - Username must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Username field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “ Username must not be blank“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-100,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6eecf20b,,,,{},,N1NJS1803-8,Update Profile,,,An error message “ Username must not be blank“  must be shown,,,,,,,,0|i000gf:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Username field
+
+Press TAB and move to the next Field",,,,,,,,,,10021,Update Profile,To Do,02/Jun/24 4:58 PM
+VD - Price - Price must be a number,N1NJS1803-62,10075,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:56 PM,16/Jun/24 11:14 AM,16/Jun/24 11:58 PM,,,0,ValuateDiamond,"*VD* - Price -  Price must be a number
+
+*Step we’ll take…*
+
+# Enter character in Price field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “ Price must be a number“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-104,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@159ce7b7,,,,{},,N1NJS1803-7,Diamond Valuation,,,An error message “ Price must be a number“  must be shown,,,,,,,,0|i000u6:zzzzzhzy,,,,,,,,Set up,,,,,,,,,Unit,"Enter character in Price field
+
+Press TAB and move to the next Field",,,,,,,,,,10020,Diamond Valuation,To Do,02/Jun/24 4:56 PM
+VD - Price - Price must not be blank,N1NJS1803-61,10074,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:55 PM,16/Jun/24 11:14 AM,17/Jun/24 7:05 AM,,,0,ValuateDiamond,"*VD* - Price - Price must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Price field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Price must not be blank“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-104,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2db49b18,,,,{},,N1NJS1803-7,Diamond Valuation,,,An error message “Price must not be blank“  must be shown,,,,,,,,0|i000u6:zzzzzhzx,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter value in Comment field
+
+Press TAB and move to the next Field",,,,,,,,,,10020,Diamond Valuation,To Do,02/Jun/24 4:55 PM
+DA - Carat Weight - Carat weight must be the number,N1NJS1803-60,10073,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 4:54 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Carat Weight - Carat weight must be the number
+
+*Step we’ll take…*
+
+# Enter not number in Carat Weight field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Carat weight must be the number“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,N1NJS1803-69,N1NJS1803-165,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4eb5774d,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Carat weight must be the number“ must be shown.,,,,,,,,0|i000i6:,,,,,,,,Report,,,,,,,,,Unit,"Enter not number in Carat Weight field
+Press Tab and move to next Field",Pass,,,,,,,,,10017,Diamond Assessment,To Do,02/Jun/24 4:54 PM
+DA - Carat Weight - Carat weight not be blank,N1NJS1803-59,10072,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 4:54 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,DiamondAssessment,"*DA -* Carat Weight - Carat weight not be blank
+
+*Step we’ll take…*
+
+# Do not enter in Carat Weight field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Carat weight not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7c5f6f7,,,,{},,N1NJS1803-4,Diamond Assessment,,,An error message “Carat weight not be blank“ must be shown.,,,,,,,,0|i000i5:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter in Carat Weight field
+Press Tab and move to next Field",,,,,,,,,,10017,Diamond Assessment,To Do,02/Jun/24 4:54 PM
+VD - Comment - Comment must not be blank,N1NJS1803-58,10071,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:54 PM,16/Jun/24 11:14 AM,17/Jun/24 7:05 AM,,,0,ValuateDiamond,"*VD* - Comment - Comment must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Comment field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Comment must not be blank“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,N1NJS1803-166,,,,,,,,,,,,,,,,,,N1NJS1803-103,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@11f41c85,,,,{},,N1NJS1803-7,Diamond Valuation,,,An error message “Comment must not be blank“  must be shown,,,,,,,,0|i000u6:zzzzzhzv,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter value in Comment field
+
+Press TAB and move to the next Field",,,,,,,,,,10020,Diamond Valuation,To Do,02/Jun/24 4:54 PM
+MB - Content - Content must not be blank,N1NJS1803-57,10070,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:52 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,NewBlog,"*MB* - Content - Content must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Content field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Content must not be blank“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-113,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@66ee5f25,,,,{},,N1NJS1803-6,Manage Blog,,,An error message “Content must not be blank“  must be shown,,,,,,,,0|i000f3:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Content field
+
+Press TAB and move to the next Field",,,,,,,,,,10019,Manage Blog,To Do,02/Jun/24 4:52 PM
+MB - Reference link - Reference link is invalid,N1NJS1803-56,10069,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:51 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,NewBlog,"*MB* - Reference link - Reference link is invalid
+
+*Step we’ll take…*
+
+# Enter invalid reference in Reference field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Reference link is invalid“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-113,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3fa67e02,,,,{},,N1NJS1803-6,Manage Blog,,,An error message “Reference link is invalid“  must be shown,,,,,,,,0|i000ev:,,,,,,,,Report,,,,,,,,,Unit,"Enter invalid reference in Reference field
+
+Press TAB and move to the next Field",,,,,,,,,,10019,Manage Blog,To Do,02/Jun/24 4:51 PM
+SU - Password Confirm- Password confirm does not match,N1NJS1803-55,10068,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:50 PM,16/Jun/24 6:00 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - Password Confirm- Password confirm does not match
+*Step we’ll take…*
+
+# Enter values do not match with Password in Password Confirm Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Password confirm does not match” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2308022c,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Password confirm does not match” must be shown,,,,,,,,0|i000en:,,,,,,,,Set up,,,,,,,,,Unit,"Enter values do not match with Password in Password Confirm Field
+
+Press TAB or move to next Field",,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:51 PM
+SU - Password Confirm- Password confirm must not be blank,N1NJS1803-54,10067,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:50 PM,16/Jun/24 6:00 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - Password Confirm- Password confirm must not be blank
+*Step we’ll take…*
+
+# Do not enter a value in Password Confirm Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Password confirm must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@73a56f5c,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Password confirm must not be blank” must be shown,,,,,,,,0|i000ef:,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter a value in Password Confirm Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:50 PM
+SU - Password - Enter at least 8+ characters,N1NJS1803-53,10066,Bug,Open,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:50 PM,13/Jun/24 8:55 AM,13/Jun/24 8:47 AM,,,0,Signup,"*SU* - Password - Enter at least 8+ characters
+*Step we’ll take…*
+
+# Enter less than 8 characters in Password Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Enter at least 8+ characters” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,13/Jun/24 8:32 AM;712020:864439f9-a516-416e-a643-cd516298692f;surefire-report.html;https://nguyen-quoc-dat-k17-hcm.atlassian.net/rest/api/3/attachment/content/10000,Add account successfully.,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@19992c95,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Enter at least 8+ characters” must be shown,,,,,,,,0|i000e7:,,,,,,,,Set up,,,,,,,,Unit,Unit,"Enter less than 8 characters in Password Field
+
+Press TAB or move to next Field",Fail,,,,,,,,,10014,Sign up,To Do,13/Jun/24 8:32 AM
+SU - Password - Enter at-least one numeric value,N1NJS1803-52,10065,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:50 PM,16/Jun/24 6:24 PM,17/Jun/24 6:54 AM,,,0,Signup,"*SU* - Password - Enter at-least one numeric value
+*Step we’ll take…*
+
+# Do not enter a numeric in Password Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Enter at-least one numeric value” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@be4824d,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Enter at-least one numeric value” must be shown,,,,,,,,0|i000dz:,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter a numeric in Password Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:50 PM
+SU - Password - Password must not be blank,N1NJS1803-51,10064,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:50 PM,16/Jun/24 6:21 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - Password - Password must not be blank
+*Step we’ll take…*
+
+# Do not enter a value in Password Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Password must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@26619c6e,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Password must not be blank” must be shown,,,,,,,,0|i000dr:,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter a value in Password Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:50 PM
+MB - Reference link - Reference link must not be blank,N1NJS1803-50,10063,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:50 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,NewBlog,"*MB* - Reference link - Reference link must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Reference field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Reference link must not be blank“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-113,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@9389405,,,,{},,N1NJS1803-6,Manage Blog,,,An error message “Reference link must not be blank“  must be shown,,,,,,,,0|i000dj:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Reference field
+
+Press TAB and move to the next Field",,,,,,,,,,10019,Manage Blog,To Do,02/Jun/24 4:50 PM
+MB - Description - Description must not be blank,N1NJS1803-49,10062,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:48 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,NewBlog,"*MB* - Description - Description must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Description field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Description must not be blank“  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-113,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@10564b28,,,,{},,N1NJS1803-6,Manage Blog,,,An error message “Description must not be blank“  must be shown,,,,,,,,0|i000db:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Description field
+
+Press TAB and move to the next Field",,,,,,,,,,10019,Manage Blog,To Do,02/Jun/24 4:48 PM
+MB - Title - Title must not be blank,N1NJS1803-48,10061,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:46 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,NewBlog,"*MB* - Title - Title must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Title field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Title must not be blank”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-113,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@57a708d3,,,,{},,N1NJS1803-6,Manage Blog,,,An error message “Title must not be blank”  must be shown,,,,,,,,0|i000d3:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Title field
+
+Press TAB and move to the next Field",,,,,,,,,,10019,Manage Blog,To Do,02/Jun/24 4:46 PM
+MA - Email ID - Email ID already exist,N1NJS1803-46,10059,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:44 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Email ID - Email ID already exist
+
+*Step we’ll take…*
+
+# Enter Email ID already exist in Email ID field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Email ID already exist”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2ee86fed,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Email ID already exist”  must be shown,,,,,,,,0|i0008b:,,,,,,,,Report,,,,,,,,,Unit,"Enter Email ID already exist in Email ID field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 4:44 PM
+SU - Phone - Phone must be number ,N1NJS1803-45,10058,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:24 PM,16/Jun/24 6:00 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU10* - Email - Email ID must not be blank 
+*Step we’ll take…*
+
+# Do not enter a value in Email Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Email must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4d17e815,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Email must not be blank” must be shown,,,,,,,,0|i000cm:u,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter a value in Email Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:24 PM
+SU - Phone - Phone must not be blank,N1NJS1803-43,10056,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:24 PM,16/Jun/24 5:57 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - Phone - Phone must not be blank
+*Step we’ll take…*
+
+# Do not enter a value in Phone Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Phone must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@21776bb7,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Phone must not be blank” must be shown,,,,,,,,0|i000c7:,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter a value in Phone Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:24 PM
+SU - Email -  Email is not valid,N1NJS1803-42,10055,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:24 PM,16/Jun/24 5:56 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - Email -  Email is not valid
+*Step we’ll take…*
+
+# Enter wrong format of a email in Email Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Email is not valid” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5776ee9,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Email is not valid” must be shown,,,,,,,,0|i0009q:x,,,,,,,,Set up,,,,,,,,,Unit,"Enter wrong format of a email in Email Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:24 PM
+SU - Email - Email must not be blank ,N1NJS1803-41,10054,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:08 PM,16/Jun/24 5:42 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - Email - Email ID must not be blank 
+*Step we’ll take…*
+
+# Do not enter a value in Email Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Email must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@92d562b,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Email must not be blank” must be shown,,,,,,,,0|i0009q:v,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter a value in Email Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:08 PM
+SU - Last Name - Last name must contain only letters,N1NJS1803-39,10052,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:08 PM,16/Jun/24 5:42 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - Last Name - Last name must contain only letters
+*Step we’ll take…*
+
+# Enter a special character or number in Last Name Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Last name must contain only letters” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@27d43469,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Last name must contain only letters” must be shown,,,,,,,,0|i0009q:i,,,,,,,,Set up,,,,,,,,,Unit,"Enter a special character or number in Last Name Field
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:08 PM
+SU - Last Name - Last name must not be blank,N1NJS1803-38,10051,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:08 PM,16/Jun/24 5:42 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - Last Name - Last name must not be blank
+*Step we’ll take…*
+
+# Do not enter a value in Last Name Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Last name must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4d456f01,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Last name must not be blank” must be shown,,,,,,,,0|i0009q:,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter a value in Last Name Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:08 PM
+SU - First Name - First name must contain only letters,N1NJS1803-36,10049,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 4:08 PM,16/Jun/24 5:10 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - First Name - First name must contain only letters
+*Step we’ll take…*
+
+# Enter a special character or number in First Name Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “First name must contain only letters” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6ecc356e,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Special characters are not allowed” must be shown,,,,,,,,0|i0009n:,,,,,,,,Set up,,,,,,,,,Unit,"Enter a special character or number in First Name Field
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 4:08 PM
+MA - Role - Role must be not blank,N1NJS1803-35,10048,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:07 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Role - Role must be not blank
+
+*Step we’ll take…*
+
+# Do not enter value in Role field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Role must be not blank”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5b4c7d93,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Role must be not blank”  must be shown,,,,,,,,0|i000af:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Role field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 4:07 PM
+MA - Password Confirm - Password confirm does not match,N1NJS1803-34,10047,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:07 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Password Confirm - Password confirm does not match
+
+*Step we’ll take…*
+
+# Enter password does not match in Password Confirm field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Password confirm does not match”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@683d337c,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Password confirm does not match”  must be shown,,,,,,,,0|i000a7:,,,,,,,,Report,,,,,,,,,Unit,"Enter password does not match in Password Confirm field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 4:07 PM
+MA - Password Confirm - Password confirm must not be blank,N1NJS1803-33,10046,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:06 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Password Confirm - Password confirm must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Password Confirm field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Password confirm must not be blank” must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3cea2a33,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Password confirm must not be blank” must be shown,,,,,,,,0|i0009z:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Password Confirm field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 4:06 PM
+MA - Password -  Enter at least 8+ character,N1NJS1803-32,10045,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:06 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Password - Enter at least 8+ character
+
+*Step we’ll take…*
+
+# Enter less then 8 character in Password field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Enter at least 8+ character”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@209868c0,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Enter at least 8+ character”  must be shown,,,,,,,,0|i0009r:,,,,,,,,Report,,,,,,,,,Unit,"Enter less then 8 character in Password field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 4:06 PM
+MA - Password - Enter at-least one numeric value,N1NJS1803-31,10044,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:05 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Password - Enter at-least one numeric value
+
+*Step we’ll take…*
+
+# Do not enter number in Password field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Enter at-least one numeric value”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1870884f,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Enter at-least one numeric value”  must be shown,,,,,,,,0|i0009j:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter number in Password field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 4:05 PM
+MA - Password - Password must not be blank,N1NJS1803-30,10043,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:05 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Password - Password must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Password field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Password - Password must not be blank”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5dbe01d,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Password - Password must not be blank”  must be shown,,,,,,,,0|i0009b:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Password field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 4:05 PM
+MA - Phone - Phone must be number,N1NJS1803-29,10042,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:02 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*NS* - Phone - Phone must be number
+
+*Step we’ll take…*
+
+# Enter character in Phone field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Phone must be number”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2b2d15b6,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Phone must be number”  must be shown,,,,,,,,0|i00093:,,,,,,,,Report,,,,,,,,,Unit,"Enter character in Phone field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 4:02 PM
+MA - Phone - Special characters are not allowed,N1NJS1803-28,10041,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 4:00 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Phone - Special characters are not allowed
+
+*Step we’ll take…*
+
+# Enter special character in Phone field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Special characters are not allowed”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7b8ea70a,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Special characters are not allowed”  must be shown,,,,,,,,0|i0008v:,,,,,,,,Report,,,,,,,,,Unit,"Enter special character in Phone field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 4:00 PM
+MA - Phone - Phone must not be blank,N1NJS1803-27,10040,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 3:58 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Phone - Phone must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Phone field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Phone must not be blank”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@261c2fef,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Phone must not be blank”  must be shown,,,,,,,,0|i0005p:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Phone field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 3:58 PM
+SU - First Name - First name must not be blank,N1NJS1803-26,10039,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 3:58 PM,16/Jun/24 5:42 PM,17/Jun/24 7:05 AM,,,0,Signup,"*SU* - First Name - First name must not be blank
+*Step we’ll take…*
+
+# Do not enter a value in First Name Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “First name must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2a3ea49e,,,,{},,N1NJS1803-1,Sign up,,,An error massage “First name must not be blank” must be shown,,,,,,,,0|i0009i:,,,,,,,,Set up,,,,,,,,,Unit,"Do not enter a value in First Name Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 3:58 PM
+SU - Username - Username already existed,N1NJS1803-25,10038,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 3:58 PM,16/Jun/24 3:53 PM,16/Jun/24 11:09 AM,,,0,Signup,"SU - Username - Username already exists
+*Step we’ll take…*
+
+# Enter “customer“ in Username Field
+# Press Sign Up
+
+*Success is…*✨
+
+An error massage “Username already exists” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@697d84ca,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Username already exists” must be shown,,,,,,,,0|i0009h:,,,,,,,,Set up,,,,,,,,Unit,Unit,"Enter “customer“ in Username Field
+Press Sign Up",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 3:58 PM
+SU - Username - Username must be alphanumeric 6-24 characters,N1NJS1803-24,10037,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 3:58 PM,16/Jun/24 3:38 PM,16/Jun/24 11:09 AM,,,0,Signup,"*SU* - Username - Username must be alphanumeric 6-24 characters
+*Step we’ll take…*
+
+# Enter less than 6 characters or more than 24 characters
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Username must be alphanumeric 6-24 characters” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@63a2c01c,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Username must be alphanumeric 6-24 characters” must be shown,,,,,,,,0|i0009f:,,,,,,,,Set up,,,,,,,,Unit,Unit,"Step we’ll take…
+
+Enter less than 6 characters or more than 24 characters
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,To Do,02/Jun/24 3:58 PM
+MA - Email ID - Email ID is not valid,N1NJS1803-23,10036,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 3:56 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Email ID - Email ID is not valid
+
+*Step we’ll take…*
+
+# Enter invalid Email ID in Email ID field
+# Press TAB and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Email ID is not valid”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6d9a8d95,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Email ID is not valid”  must be shown,,,,,,,,0|i0007r:,,,,,,,,Report,,,,,,,,,Unit,"Enter invalid Email ID in Email ID field
+
+Press TAB and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 3:56 PM
+MA - Email ID - Email ID must not be blank,N1NJS1803-22,10035,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 3:54 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Email ID - Email ID must not be blank
+
+*Step we’ll take…*
+
+# Do not enter value in Email ID field
+# Press TAB  and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Email ID must not be blank”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@d7dd248,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Email ID must not be blank”  must be shown,,,,,,,,0|i0007j:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter value in Email ID field
+
+Press TAB  and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 3:54 PM
+MR - Identity Card- Identity Card must be number,N1NJS1803-19,10032,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 3:53 PM,17/Jun/24 12:01 AM,17/Jun/24 7:05 AM,,,0,ManageRequest,"*MR -* Quantity - Quantity must not be blank
+
+*Step we’ll take…*
+
+# Do not enter in Quantity Field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Quantity must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,N1NJS1803-13,,,,,,,,,,,,,,,,N1NJS1803-96,N1NJS1803-97,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4449dd8b,,,,{},,N1NJS1803-9,Manage Request,,,An error message “Quantity must not be blank“ must be shown.,,,,,,,,0|i000cm:r,,,,,,,,Bussiness flow,,,,,,,,,Unit,"Do not enter in Quantity Field
+Press Tab and move to next Field",Pass,,,,,,,,,10022,Manage Request,To Do,02/Jun/24 3:53 PM
+MR - Identity Card - Identity Card must not be blank,N1NJS1803-17,10030,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 3:53 PM,17/Jun/24 12:01 AM,17/Jun/24 7:05 AM,,,0,ManageRequest,"*MR* - Identity Card- Identity Card must not be blank
+
+*Step we’ll take…*
+
+# Do not enter in Identity Card Field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Identity Card must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-96,N1NJS1803-97,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2df414a5,,,,{},,N1NJS1803-9,Manage Request,,,An error message “Quantity must not be blank“ must be shown.,,,,,,,,0|i000ck:,,,,,,,,Bussiness flow,,,,,,,,,Unit,"Do not enter in Identity Card Field
+Press Tab and move to next Field",Pass,,,,,,,,,10022,Manage Request,To Do,02/Jun/24 3:53 PM
+MR - Quantity - Quantity must be number,N1NJS1803-16,10029,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 3:53 PM,17/Jun/24 12:01 AM,17/Jun/24 7:05 AM,,,0,ManageRequest,"*MR* - Quantity - Quantity must be number
+
+*Step we’ll take…*
+
+# Enter a not number in Quantity Field 
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Quantity must be number“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-96,N1NJS1803-97,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@37837783,,,,{},,N1NJS1803-9,Manage Request,,,An error message “Quantity must be number“ must be shown.,,,,,,,,0|i000cl:,,,,,,,,Bussiness flow,,,,,,,,,Unit,"Enter a not number in Quantity Field 
+Press Tab and move to next Field",Pass,,,,,,,,,10022,Manage Request,To Do,02/Jun/24 3:53 PM
+MA - Last Name - Numbers are not allowed,N1NJS1803-15,10028,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 3:52 PM,16/Jun/24 10:31 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Last Name - Numbers are not allowed
+
+*Step we’ll take…*
+
+# Enter number in Last Name field
+# Press TAB  and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “ Numbers are not allowed”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@19245b18,,,,{},,N1NJS1803-5,Manage Account,,,An error message “ Numbers are not allowed”  must be shown,,,,,,,,0|i0005z:,,,,,,,,Report,,,,,,,,,Unit,"Enter number in Last Name field
+
+Press TAB  and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 3:52 PM
+MA - Last Name - Special characters are not allowed,N1NJS1803-14,10027,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 3:49 PM,16/Jun/24 11:11 AM,17/Jun/24 7:05 AM,,,0,CreateStaffAccount,"*MA* - Last Name - Special characters are not allowed
+
+*Step we’ll take…*
+
+# Enter special character in Last Name field
+# Press TAB  and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “ Special characters are not allowed”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3ae1b033,,,,{},,N1NJS1803-5,Manage Account,,,An error message “ Special characters are not allowed”  must be shown,,,,,,,,0|i0005n:,,,,,,,,Report,,,,,,,,,Unit,"Enter special character in Last Name field
+
+Press TAB  and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 3:49 PM
+MR - Quantity - Quantity must not be blank,N1NJS1803-13,10026,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 3:48 PM,17/Jun/24 12:01 AM,17/Jun/24 7:05 AM,,,0,ManageRequest,"*MR* - Quantity - Quantity must not be blank
+
+*Step we’ll take…*
+
+# Do not enter in Quantity Field
+# Press Tab and move to next Field
+
+*Sucess is…*✨ 
+
+An error message “Quantity must not be blank“ must be shown.",,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,N1NJS1803-19,,,,,,,,,,,,,,,,,,N1NJS1803-96,N1NJS1803-97,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1280d44f,,,,{},,N1NJS1803-9,Manage Request,,,An error message “Quantity must not be blank“ must be shown.,,,,,,,,0|i000cj:,,,,,,,,Bussiness flow,,,,,,,,,Unit,"Do not enter in Quantity Field
+Press Tab and move to next Field",Pass,,,,,,,,,10022,Manage Request,To Do,02/Jun/24 3:48 PM
+MA - Last Name - Last Name must not be blank,N1NJS1803-12,10025,Testcase,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Tran Thi Thao Nguyen (K18 HCM),712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,02/Jun/24 3:48 PM,16/Jun/24 11:11 AM,13/Jun/24 8:52 AM,,,0,CreateStaffAccount,"*MA* - Last Name - Last Name must not be blank
+
+*Step we’ll take…*
+
+# Do not enter a value in Last Name field
+# Press TAB  and move to the next Field
+
+
+
+*Success is…*✨ 
+
+An error message “Last Name must not be blank”  must be shown",,Tran Thi Thao Nguyen (K18 HCM),,712020:42039c46-2bc6-4727-960f-08e4a2e53ec7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-117,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@182ff611,,,,{},,N1NJS1803-5,Manage Account,,,An error message “Last Name must not be blank”  must be shown,,,,,,,,0|i0005j:,,,,,,,,Report,,,,,,,,,Unit,"Do not enter a value in Last Name field
+
+Press TAB  and move to the next Field",,,,,,,,,,10018,Manage Account,To Do,02/Jun/24 3:48 PM
+SU - Username - Username must not be blank,N1NJS1803-10,10023,Testcase,In Progress,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,02/Jun/24 3:13 PM,17/Jun/24 12:34 AM,17/Jun/24 12:20 AM,,,0,Signup,"*SU -* Username - Username must not be blank
+*Step we’ll take…*
+
+# Do not enter a value in Username Field
+# Press TAB or move to next Field
+
+*Success is…*✨
+
+An error massage “Username must not be blank” must be shown",,Doan Manh Hung (K17 HCM),,712020:21311540-9ec4-44ab-8804-d16814ff9d38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,N1NJS1803-128,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7ffe01d0,,,,{},,N1NJS1803-1,Sign up,,,An error massage “Username must not be blank” must be shown,,,,,,,,0|i0005q:,,,,,,,,Set up,,,,,,,,Unit,Unit,"Step we’ll take…
+
+Do not enter a value in Username Field
+
+Press TAB or move to next Field",Pass,,,,,,,,,10014,Sign up,In Progress,17/Jun/24 12:34 AM
+Manage Request,N1NJS1803-9,10022,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 2:52 PM,13/Jun/24 10:32 PM,17/Jun/24 7:05 AM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2fc334ba,,,,{},ghx-label-7,,,Appointment,To Do,,,purple,,,,,,0|i00032:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,02/Jun/24 2:52 PM
+Update Profile,N1NJS1803-8,10021,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 2:51 PM,13/Jun/24 10:19 PM,17/Jun/24 7:05 AM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@763f8d5e,,,,{},ghx-label-7,,,Change Password,To Do,,,purple,,,,,,0|i0003r:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,02/Jun/24 2:51 PM
+Diamond Valuation,N1NJS1803-7,10020,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 2:51 PM,15/Jun/24 5:13 PM,17/Jun/24 7:05 AM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2c228dd2,,,,{},ghx-label-7,,,Valuate Diamond,To Do,,,purple,,,,,,0|i00032:v,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,02/Jun/24 2:51 PM
+Manage Blog,N1NJS1803-6,10019,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 2:49 PM,13/Jun/24 10:51 PM,17/Jun/24 7:05 AM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@76b82f91,,,,{},ghx-label-7,,,New blog,To Do,,,purple,,,,,,0|i00047:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,02/Jun/24 2:49 PM
+Manage Account,N1NJS1803-5,10018,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 2:49 PM,13/Jun/24 10:38 PM,07/Jun/24 11:51 PM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5aab6428,,,,{},ghx-label-7,,,Staff account,To Do,,,purple,,,,,,0|i00032:zx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,02/Jun/24 2:49 PM
+Diamond Assessment,N1NJS1803-4,10017,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 2:48 PM,15/Jun/24 12:13 PM,06/Jun/24 9:40 PM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4915b930,,,,{},ghx-label-7,,,Diamond detail,To Do,,,purple,,,,,,0|i00032:r,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,02/Jun/24 2:48 PM
+Diamond Check,N1NJS1803-3,10016,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,,,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 2:48 PM,13/Jun/24 10:22 PM,17/Jun/24 7:05 AM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1d3f5e7,,,,{},ghx-label-7,,,Diamond check,To Do,,,purple,,,,,,0|i00031:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,02/Jun/24 2:48 PM
+Sign In,N1NJS1803-2,10015,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Doan Manh Hung (K17 HCM),712020:21311540-9ec4-44ab-8804-d16814ff9d38,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 2:47 PM,13/Jun/24 9:37 PM,17/Jun/24 7:05 AM,,,0,,abc,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,aa,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5d194600,,,,{},ghx-label-7,,,Login,To Do,abc,,purple,,,,,,0|i0003b:,,,,,,,,,,,,,,,,,,abc,,,,,,,,,,,,To Do,02/Jun/24 2:47 PM
+Sign up,N1NJS1803-1,10014,Epic,To Do,N1NJS1803,N1_NJS1803_SWP,software,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,,,Medium,,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Pham Nguyen Trong Tuan (K17 HCM),712020:33151d40-f4e1-41de-af70-3903cabe4ee5,Nguyen Quoc Dat (K17 HCM),712020:864439f9-a516-416e-a643-cd516298692f,02/Jun/24 2:47 PM,16/Jun/24 6:01 PM,07/Jun/24 11:50 PM,,,0,,,,Nguyen Quoc Dat (K17 HCM),,712020:864439f9-a516-416e-a643-cd516298692f,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2ed72b0a,,,,{},ghx-label-7,,,Sign up,To Do,,,purple,,,,,,0|i00033:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,To Do,02/Jun/24 2:47 PM
