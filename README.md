@@ -14,7 +14,7 @@ The Diamond Valuation System is a comprehensive tool designed to aid diamond val
 - **Nguyen Quoc Dat (BE)**
 - **Doan Manh Hung (BE)**
 - **Pham Nguyen Trong Tuan (FE)**
-- **Tran Thi Thao Nguyen (BE)**
+- **Tran Thi Thao Nguyen (FE)**
 ## Technologies
-- **Frontend:** ReactJS
+- **Frontend:** React
 - **Backend:** Spring Boot
