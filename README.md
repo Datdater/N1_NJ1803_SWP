@@ -11,7 +11,7 @@ The Diamond Valuation System is a comprehensive tool designed to aid diamond val
 - **Diamond Pricing Request:**
   - Allows users to create a request for diamond pricing.
 
-## - Tasks
+## Tasks
 | Sprint 1 | Tasks | 
 |----------|----------|
 | Pham Nguyen Trong Tuan   | FE-Sign in, FE-Sign up, BE-New Appointment |
