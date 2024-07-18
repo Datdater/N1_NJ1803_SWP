@@ -10,6 +10,23 @@ The Diamond Valuation System is a comprehensive tool designed to aid diamond val
   - Allows users to estimate the value of diamonds using the certification number provided by the company's diamond grading report.
 - **Diamond Pricing Request:**
   - Allows users to create a request for diamond pricing.
+
+## Tasks
+| Sprint 1 | Tasks | 
+|----------|----------|
+| Pham Nguyen Trong Tuan   | FE-Sign in, FE-Sign up, BE-New Appointment |
+| Nguyen Quoc Dat    | BE-Sign in, BE-Sign up, BE-Check Diamond |
+| Doan Manh Hung    | BE-Blog Management, BE-Manage Account, BE-Service Management, BE-Update Profile |
+| Nguyen Thi Thao Nguyen    | FE-Check Diamond |
+
+| Sprint 2 | Tasks | 
+|----------|----------|
+| Pham Nguyen Trong Tuan   | FE-Valuation Request, FE-Valuation Request Detail |
+| Nguyen Quoc Dat    | BE-Valuation Request, BE-Valuation Request Detail, BE-Check Diamond |
+| Doan Manh Hung    | BE-Blog Management, BE-Diamond Assign, BE-Notification, BE-Update Profile |
+| Nguyen Thi Thao Nguyen    | FE-Check Diamond |
+
+
 ## Member
 - **Nguyen Quoc Dat (BE)**
 - **Doan Manh Hung (BE)**
