@@ -34,6 +34,8 @@ The **Diamond Valuation System** is a comprehensive tool designed to aid diamond
   - **Username:** manager
   - **Password:** 123456
 
+## Demo
+- **Link:** (https://www.youtube.com/watch?v=zuISkbmCqCI&ab_channel=TuanPham)
 ---
 
 ## Tasks
